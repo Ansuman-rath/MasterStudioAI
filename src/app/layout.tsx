@@ -8,7 +8,7 @@ import { Providers } from "@/components/providers";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "MindStudio AI",
+  title: "Master Studio AI",
   description:
     "Empowering education through personalized AI-driven learning experiences.",
 };

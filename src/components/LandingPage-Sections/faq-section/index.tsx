@@ -18,7 +18,7 @@ export function FAQ() {
               How accurate is the AI in generating course content?
             </AccordionTrigger>
             <AccordionContent className="text-[#8678F9] font-bold">
-              LearnAI Studio uses advanced algorithms to ensure the content is
+              Master Studio AI uses advanced algorithms to ensure the content is
               accurate and relevant, but users can always customize and enhance
               the AI-generated material.
             </AccordionContent>
@@ -37,7 +37,7 @@ export function FAQ() {
               Is there a limit to the number of courses I can create?
             </AccordionTrigger>
             <AccordionContent className="text-[#8678F9] font-bold">
-              No, LearnAI Studio is designed to scale with your needs, allowing
+              No, Master Studio AI is designed to scale with your needs, allowing
               you to create as many courses as required.
             </AccordionContent>
           </AccordionItem>

@@ -1,4 +1,4 @@
-# MindStudio AI
+# Master Studio AI
 
 <img width="1899" height="863" alt="image" src="https://github.com/user-attachments/assets/c9ee176a-ca5b-472c-8b13-2a0c73744f55" />
 
@@ -8,7 +8,7 @@
 
 ## Overview
 
-MindStudio AI is a next-generation AI-powered learning platform that generates comprehensive, structured courses from a single text prompt. Whether you're looking to learn "Quantum Computing" or "Advanced UI Design," the platform leverages Google's Gemini LLM to create multi-day modules, assessments, and downloadable presentations tailored just for you.
+Master Studio AI is a next-generation AI-powered learning platform that generates comprehensive, structured courses from a single text prompt. Whether you're looking to learn "Quantum Computing" or "Advanced UI Design," the platform leverages Google's Gemini LLM to create multi-day modules, assessments, and downloadable presentations tailored just for you.
 
 ## Key Features
 
@@ -32,7 +32,7 @@ MindStudio AI is a next-generation AI-powered learning platform that generates c
 
 ### Prerequisites
 
-To run MindStudio AI locally, you will need to set up several external services and obtain the following API keys.
+To run Master Studio AI locally, you will need to set up several external services and obtain the following API keys.
 
 | Variable | Service | Description |
 | :--- | :--- | :--- |
@@ -72,7 +72,7 @@ To run MindStudio AI locally, you will need to set up several external services 
 
 ## Project Architecture
 
-MindStudio AI follows a modern serverless architecture:
+Master Studio AI follows a modern serverless architecture:
 - **Compute**: Next.js Server Components & API Routes.
 - **Intelligence**: Google Gemini for content generation and embeddings.
 - **Persistence**: Neon PostgreSQL for user data; Pinecone for vector indexing.

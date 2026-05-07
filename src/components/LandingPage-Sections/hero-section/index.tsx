@@ -62,7 +62,7 @@ export default function HeroSection() {
               className="text-7xl font-bold font-headingAlt bg-gradient-to-tr from-purple-300/100 to-white/50 bg-clip-text text-transparent tracking-normal sm:text-7xl  md:text-9xl"
             >
               <Feeder feed="v1.0" />
-              MindStudio AI
+              Master Studio AI
             </motion.h1>
             <motion.p
               variants={FADE_DOWN_ANIMATION_VARIANTS}

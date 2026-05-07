@@ -55,7 +55,7 @@ export default function Footer() {
               <p className="font-bold my-2">
                 Contact our team at{" "}
                 <span className="text-[#8678F9]">
-                  support@mindstudio.ai
+                  support@masterstudio.ai
                 </span>{" "}
                 or call us at
                 <span className="text-[#8678F9]"> (123) 456-7890.</span>

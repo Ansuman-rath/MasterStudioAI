@@ -24,7 +24,7 @@ function AboutSection() {
             journeys with <span className="text-[#8678F9]">AI</span>.
           </h3>
           <p className="font-light text-md leading-[1.4] opacity-70 my-3 ">
-            LearnAI Studio is a cutting-edge platform that harnesses the power
+            Master Studio AI is a cutting-edge platform that harnesses the power
             of artificial intelligence to craft bespoke educational courses.
             With a simple prompt, users can generate detailed and structured
             learning modules tailored to their unique needs, creating an
